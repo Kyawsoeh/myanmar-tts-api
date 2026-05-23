@@ -1,0 +1,12 @@
+{
+  "name": "myanmar-tts-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "edge-tts": "^1.0.3",
+    "express": "^4.18.2"
+  }
+}
