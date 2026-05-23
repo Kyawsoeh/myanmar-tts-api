@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: myanmar-tts-api
-    runtime: node
-    buildCommand: npm install
-    startCommand: npm start
